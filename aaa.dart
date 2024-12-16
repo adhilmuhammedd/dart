@@ -1,10 +1,9 @@
 void main(){
     Car d=Car();
-    d.name ="benz";
+    d.name ="bmw";
     d.model=2000;
     d.vehiclename();
     d.carname();
-
 }
     class Vehicle{
         String?name;
