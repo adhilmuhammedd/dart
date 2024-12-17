@@ -22,7 +22,7 @@ void main(){
     Employee d= new Employee();
 
     d.setId(1);
-    d.setName("adhil");
+    d.setName("adhil muhammed");
 
     print("id:${d.getId()}");
     print("name:${d.getName()}");
