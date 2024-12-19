@@ -1,8 +1,8 @@
 void main(){
 Car d=Car();
-d.name="benz";
-d.colour="red";
-d.year=1000;
+d.name="ciaz";
+d.colour="green";
+d.year=2015;
 d.modal=1111;
 d.vehiclename();
 d.carname();
