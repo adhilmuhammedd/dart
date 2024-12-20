@@ -1,7 +1,7 @@
 void main(){
     Vehicle d=Vehicle();
     d.name="bmw";
-    d.model=2000;
+    d.model=2006;
     d.display();
 }
 class Vehicle{
