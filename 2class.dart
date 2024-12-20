@@ -13,7 +13,7 @@ void main(){
     Animal d=Animal();
     d.name="cat";
     d.numberOfLegs=4;
-    d.lifeSpan=5555;
+    d.lifeSpan=555;
     d.display();
 
 }
