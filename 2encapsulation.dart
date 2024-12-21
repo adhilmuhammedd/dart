@@ -27,7 +27,7 @@ void main() {
   Employee d = new Employee();
   // setting values to the object using setter
   d.setId(1);
-  d.setName("John");
+  d.setName("adhil");
 
   // Retrieve the values of the object using getter
   print("Id: ${d.getId()}");
