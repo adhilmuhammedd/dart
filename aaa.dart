@@ -1,13 +1,13 @@
 void main(){
     Car d=Car();
     d.name ="bmw";
-    d.model=2000;
-    d.vehiclename();
+    d.model=2006;
+    d.vehiclenamee();
     d.carname();
 }
     class Vehicle{
         String?name;
-        void vehiclename(){
+        void vehiclenamee(){
             print("name is $name");
         }
     }
