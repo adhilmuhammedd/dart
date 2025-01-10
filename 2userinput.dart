@@ -5,7 +5,7 @@
     // print("hello $name");
 // }
 void main(){
-    String name ="     adhil    ";
+    String name ="    adhil   ";
 
 
     print("uppercase:${name.toUpperCase()}");
