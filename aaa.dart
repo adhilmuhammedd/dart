@@ -1,7 +1,7 @@
 void main(){
     Car d=Car();
-    d.name ="bmw";
-    d.model=2006;
+    d.name ="ciaz";
+    d.model=2015;
     d.vehiclenamee();
     d.carname();
 }
