@@ -6,8 +6,6 @@
 // }
 void main(){
     String name ="    adhil   ";
-
-
     print("uppercase:${name.toUpperCase()}");
     print("lower:${name.toLowerCase()}");
     print("trim:${name.trim()}");
