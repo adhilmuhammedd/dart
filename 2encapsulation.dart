@@ -1,7 +1,7 @@
 class Employee {
   // Private properties
   int? _id;
-  String? _name;
+  String? _name; 
   
 
 // Getter method to access private property _id
