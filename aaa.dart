@@ -2,7 +2,7 @@ void main(){
     Car d=Car();
     d.name ="ciaz";
     d.model=2015;
-    d.vehiclenamee();
+    d.vehiclenamee(); 
     d.carname();
 }
     class Vehicle{
