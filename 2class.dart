@@ -5,7 +5,7 @@ class Animal {
 
   void display() {
     print("Animal name: $name.");
-    print("Number of Legs: $numberOfLegs.");
+    print("Number of Legs: $numberOfLegs."); 
     print("Life Span: $lifeSpan.");
   }
 }
